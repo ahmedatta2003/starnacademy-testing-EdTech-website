@@ -1,4 +1,4 @@
-# StarN Academy Testing – EdTech Website QA Project
+# Starn Academy Testing – EdTech Website QA Project
 
 ## Overview
 
